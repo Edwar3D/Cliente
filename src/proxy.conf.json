@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "http://52.207.220.95:3000/mensajes",
+        "secure":false,
+        "logLevel": "debug"
+    }
+}
